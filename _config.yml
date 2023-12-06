@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrià López Escoriza / Robotics Researcher"
+title                    : "Adrià's Homepage"
 title_separator          : "-"
 name                     : &name "Adrià López Escoriza"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Adrià López Escoriza"
   avatar           : "profile.jpg"
-  bio              : "I am currently a Robotics MSc student at ETH Zürich working on Hierarchical Model Based Reinforcement Learning at the Visual Intelligence and Systems group. My long-term goal is to replicate human reasoning in embodied agents so that they can seamlessly interact with the environment. Essentially, how can agents learn to manipulate their environment to accomplish distant objectives? I believe in the power of learning-based solutions which is why my main research focus lies at the intersection between decision-making and RL for robot learning. I am also interested in controllability, life-long learning and multi-agent learning."
+  bio              : "Robot Learning"
   location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ILR9mVQAAAAJ&hl=es"
-  email            :
+  email            : "alopez@student.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
