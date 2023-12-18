@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://www.ub.edu/web/ub/en/). My current research interests lie at the intersection between robotics, reinforcement learning, and decision making. My long-term goal is to enable long-term reasoning in embodied AI agents so that they can seamlessly interact with their environment. 🤖
 
-Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://www.ub.edu/web/ub/en/). My academic journey has been driven by a deep interest in robotics, reinforcement learning, and decision making. 🤖
+## Research Interests
 
-## Education
+Within deep reinforcement learning, embodied AI, and robotics, I am particularly interested in:
 
-🎓 I started my academic journey with a Bachelor's in Telecommunications Engineering from the [Universitat Politécnica de Catalunya](https://telecos.upc.edu/en?set_language=en) (UPC) in Barcelona, Spain. Graduated with honors and a GPA of 8.27/10, diving into signal processing, communication systems, and electronic control.
+**Hierarchical / Skill-based learning**: enable long-horizon task learning through temporal abstraction and guided exploration.
 
-Furthered my skills with an enriching semester at the [Electrical Engineering Department](https://ee.ethz.ch/) of ETH Zurich through the Bachelor Mobility Program.
+**Model-based learning**: build internal world models of the embodied self and the world to develop a general understanding and improve sample-efficiency in learning through planning.
 
-Currently pursuing a Master's degree in Robotics, Systems & Control at ETH Zurich, exploring captivating courses and research projects. 🧠
+**Representation learning**: autonomously infer and discover the underlying temporal, spatial, and causal structures of the input across different modalities for efficient decision-making and generalization.
+
+A sample of other topics that I’m also very curious about: generative models, multi-agent cooperation, life-long learning and learning from human videos.
 
 ## Research & Work Experience
-
-My academic journey intertwined with practical experiences that fuel my passion for robotics and autonomous systems:
 
 ### Master Thesis at Visual Intelligence and Systems Lab
 
@@ -30,33 +30,38 @@ My academic journey intertwined with practical experiences that fuel my passion 
 
 ### Motion Planning Intern at Motional
 
-At [Motional](https://motional.com/) in Singapore, I worked on benchmarking planning pipelines and designing new behavioral planning pipelines for autonomous driving systems.
+At [Motional](https://motional.com/) Singapore, I worked on the design of a new behavioral planning pipeline for the next generation of autonomous vehicles. 🚙
 
-### Autonomous Racing & State Estimation
+### KalmanNet: Data-Driven Kalman Filtering
 
-🚗 Engagement with [AMZ Driverless](https://amzracing.ch/en) involved leading the estimation module, designing state-of-the-art Kalman Filters, and contributing to innovative AI solutions for autonomous driving, recognized with accolades such as the Daimler AI Award.
+
+## Autonomous Racing & State Estimation 🏎️
+
+### Autonomous Racing at AMZ Driverless
+🚗 Engagement with [AMZ Driverless](https://amzracing.ch/en) involved leading the estimation module, designing state-of-the-art Kalman Filters.
 
 ### SLAM & Autonomous Racing at BCN eMotorsport
-
 🏎️ Early experiences at [BCN eMotorsport](https://bcnemotorsport.upc.edu/home/) in Barcelona involved studying SLAM algorithms and implementing mapping algorithms in Spanish autonomous cars.
 
-## Achievements & Awards
+## Teaching and Mentoring
 
-My academic and professional journey has been peppered with achievements:
+Teaching Assistant for the course Game Theory And Control at ETH Zurich.
+Robotics academy: Organizing robotic and programming workshops for students aged from 8 to 14.
 
-- Securing 3rd place overall in Formula Student Germany's Driverless category with AMZ Driverless.
-- Winning the Daimler AI Award for pioneering AI solutions in autonomous driving.
-- Earning maximum grades for my Bachelor's Thesis at UPC.
-- Seizing 1st place in national Mathematics Olympiads showcasing problem-solving skills. 🏆
+
+## Achievements & Awards 🏆
+
+- 3rd place overall in Formula Student Germany's Driverless category with AMZ Driverless.
+- Daimler AI Award for pioneering AI solutions in autonomous driving.
+- Maximum grade and honors for my Bachelor's Thesis at UPC.
+- 1st place in Mational Mathematics Olympiads of Spain and Andorra.
 
 ## Interests & Extracurriculars
 
 Beyond academia, I indulge in various interests and extracurricular activities:
 
-- Alpine skiing, Alpinism, Tennis, and Surfing.
-- Volunteering experiences in teaching robotics and construction projects. 🏂
-
-I'm thrilled to share my journey, experiences, and insights through this platform. Stay tuned for updates and discoveries!
+- Alpine skiing, Alpinism, Tennis, and Surfing. 🏂
+- Volunteering experiences in teaching robotics and construction projects.
 
 
 
