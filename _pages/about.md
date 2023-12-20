@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://www.ub.edu/web/ub/en/). My current research interests lie at the intersection between robotics, reinforcement learning, and decision making. My long-term goal is to enable long-term reasoning in embodied AI agents so that they can seamlessly interact with their environment. 🤖
+Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://ethz.ch/en.html). My current research interests lie at the intersection between robotics, reinforcement learning, and decision making. My long-term goal is to enable long-term reasoning in embodied AI agents so that they can seamlessly interact with their environment. 🤖
 
-## Research Interests
+## 🌟 Research Interests
 
 Within deep reinforcement learning, embodied AI, and robotics, I am particularly interested in:
 
@@ -22,7 +22,7 @@ Within deep reinforcement learning, embodied AI, and robotics, I am particularly
 
 A sample of other topics that I’m also very curious about: generative models, multi-agent cooperation, life-long learning and learning from human videos.
 
-## Research & Work Experience
+## 💼 Research & Work Experience
 
 ### Master Thesis at Visual Intelligence and Systems Lab
 
@@ -32,7 +32,12 @@ A sample of other topics that I’m also very curious about: generative models, 
 
 At [Motional](https://motional.com/) Singapore, I worked on the design of a new behavioral planning pipeline for the next generation of autonomous vehicles. 🚙
 
-### KalmanNet: Data-Driven Kalman Filtering
+
+### 🤖 KalmanNet: Neural Networks Meet Kalman Filters
+
+At the intersection of traditional Kalman filtering and neural networks lies my project, KalmanNet. This initiative is all about exploring how we can enhance state estimation in dynamic systems by integrating the reliability of Kalman filters with the adaptability of neural networks. It's an exciting journey, blending well-established theories with innovative AI techniques to potentially improve various real-world applications. 🌟
+
+---
 
 
 ## Autonomous Racing & State Estimation 🏎️
@@ -56,7 +61,7 @@ Robotics academy: Organizing robotic and programming workshops for students aged
 - Maximum grade and honors for my Bachelor's Thesis at UPC.
 - 1st place in Mational Mathematics Olympiads of Spain and Andorra.
 
-## Interests & Extracurriculars
+## 🏄‍♂️ Beyond the Lab
 
 Beyond academia, I indulge in various interests and extracurricular activities:
 
