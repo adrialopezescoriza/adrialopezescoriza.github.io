@@ -33,7 +33,7 @@ A sample of other topics that I’m also very curious about: generative models, 
 At [Motional](https://motional.com/) Singapore, I worked on the design of a new behavioral planning pipeline for the next generation of autonomous vehicles. 🚙
 
 
-### 🤖 KalmanNet: Neural Networks Meet Kalman Filters
+### KalmanNet: Neural Networks Meet Kalman Filters
 
 At the intersection of traditional Kalman filtering and neural networks lies my project, KalmanNet. This initiative is all about exploring how we can enhance state estimation in dynamic systems by integrating the reliability of Kalman filters with the adaptability of neural networks. It's an exciting journey, blending well-established theories with innovative AI techniques to potentially improve various real-world applications. 🌟
 
@@ -62,11 +62,10 @@ Robotics academy: Organizing robotic and programming workshops for students aged
 - 1st place in Mational Mathematics Olympiads of Spain and Andorra.
 
 ## 🏄‍♂️ Beyond the Lab
-
-Beyond academia, I indulge in various interests and extracurricular activities:
-
+Beyond academia, I enjoy:
 - Alpine skiing, Alpinism, Tennis, and Surfing. 🏂
-- Volunteering experiences in teaching robotics and construction projects.
+- Backpacking and traveling for 6 months in South America and Asia. 🌎
+- Volunteering experiences in teaching robotics and construction projects. 🤖🏗️
 
 
 
