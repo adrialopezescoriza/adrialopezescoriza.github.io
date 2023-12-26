@@ -32,7 +32,7 @@ A sample of other topics that I’m also very curious about: generative models, 
 
 At [Motional](https://motional.com/) Singapore, I worked on the design of a new behavioral planning pipeline for the next generation of autonomous vehicles. 🚙 
 
-Guided by [Hans Andersen](https://scholar.google.com/scholar?hl=en&user=XXXXXXXXXXXX), we prototyped, implemented and tested a new behavioral planning pipeline. This pipeline was specifically designed to handle complex scenarios with a large number of agents on the road and perform advanced maneuvers, such as overtaking multiple cars.
+Guided by [Hans Andersen](https://scholar.google.com.sg/citations?user=ODZqlM8AAAAJ&hl=en), we prototyped, implemented and tested a new behavioral planning pipeline. This pipeline was specifically designed to handle complex scenarios with a large number of agents on the road and perform advanced maneuvers, such as overtaking multiple cars.
 
 ### KalmanNet: Neural Networks Meet Kalman Filters
 
