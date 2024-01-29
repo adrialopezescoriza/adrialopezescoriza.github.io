@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://ethz.ch/en.html). My current research interests lie at the intersection between robotics, reinforcement learning, and decision making. My long-term goal is to enable long-term reasoning in embodied AI agents so that they can seamlessly interact with their environment. 🤖
+Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://ethz.ch/en.html) supervised by [Roland Sigwart](https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html) from the [Autonomous Systems Laboratory](https://asl.ethz.ch/). My current research interests lie at the intersection between robotics, reinforcement learning, and decision making. My long-term goal is to enable long-term reasoning in robotic agents so that they can seamlessly interact with their environment. 🤖
 
 ## 🌟 Research Interests
 
 Within deep reinforcement learning, embodied AI, and robotics, I am particularly interested in:
 
-**Hierarchical / Skill-based learning**: enable long-horizon task learning through temporal abstraction and guided exploration. Could a teach robot learn to cook a meal by first learning to use the oven, then the stove, and finally the knife?
+**Hierarchical / Skill-based learning**: enable long-horizon task learning through temporal abstraction and guided exploration. Could a robot learn to cook a meal by first learning to use the oven, then the stove, and finally the knife?
 
 **Model-based learning**: build internal world models of the embodied self and the world to develop a general understanding and improve sample-efficiency in learning through planning.
 
@@ -66,7 +66,7 @@ the first autonomous racing car ever in Spain. My job was to design an online SL
 - Maximum grade and honors for my Bachelor's Thesis at UPC.
 - 1st place in Mational Mathematics Olympiads of Spain and Andorra.
 
-## 🏄‍♂️ Beyond the Lab  
+## 🏄‍♂️ Other Interests  
 I enjoy:
 - Alpine Skiing, Alpinism, Tennis, and Surfing. 🏂
 - Backpacking and traveling for 6 months in South America and Asia. 🌎
