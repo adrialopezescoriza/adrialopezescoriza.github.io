@@ -40,13 +40,13 @@ I am fascinated by the field of robot learning, with a particular focus on devel
 
 ## Achievements & Awards
 - **La Caixa Foundation Postgraduate Fellowship (2024)**  
-  Fully funded PhD scholarship awarded to 100 candidates annually, detailed on their [program page](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call).
+  Fully funded PhD scholarship awarded to 100 candidates annually in Spain and Portugal. [Program page](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call).
 
 - **Graduated with Distinction**  
   MSc in Robotics, Systems & Control at [ETH Zürich](https://master-robotics.ethz.ch/) (2024).
 
 - **Formula Student Germany (2021)**  
-  3rd place overall in Driverless category with **AMZ Driverless**, detailed on [Formula Student Germany's website](https://www.formulastudent.de/).
+  3rd place overall in Driverless category with **AMZ Driverless**. [Formula Student Germany's website](https://www.formulastudent.de/).
 
 - **Daimler AI Award (2021)**  
   Recognized for the most innovative AI solutions in autonomous driving by [Daimler AI](https://www.formulastudent.de/pr/news/details/article/daimler-driverless-ai-award-2021-update/).
@@ -55,7 +55,7 @@ I am fascinated by the field of robot learning, with a particular focus on devel
   Bachelor's Thesis at [Universitat Politècnica de Catalunya](https://telecos.upc.edu/en?set_language=en) (2021).
 
 - **Mathematics Olympiad Champion**  
-  1st place at **XXIV National Mathematics Olympiad** of Spain and Andorra, detailed on [FESPM's official page](https://fespm.es/index.php/2013/07/03/xxiv-olimpiada-cuadro-de-honor/).
+  1st place at **XXIV National Mathematics Olympiad** of Spain and Andorra. [FESPM's official page](https://fespm.es/index.php/2013/07/03/xxiv-olimpiada-cuadro-de-honor/).
 
 
 
