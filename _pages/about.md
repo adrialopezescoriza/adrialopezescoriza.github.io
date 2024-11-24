@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi there! I'm Adrià"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,70 +8,55 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Adrià, a final-year Robotics, Systems, and Control MSc student at [ETH Zurich](https://ethz.ch/en.html) supervised by [Roland Sigwart](https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html) from the [Autonomous Systems Laboratory](https://asl.ethz.ch/). My current research interests lie at the intersection between robotics, reinforcement learning, and decision making. My long-term goal is to enable long-term reasoning in robotic agents so that they can seamlessly interact with their environment. 🤖
+I am currently a research intern in robot learning at [UCSD](https://ucsd.edu/) under the supervision of [Hao Su](https://cseweb.ucsd.edu/~haosu/index.html). Previously, I received an MS degree in Robotics from [ETH Zurich](https://ethz.ch/en.html), where I was advised by [Roland Siegwart](https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html). Before that, I obtained my BS degree in Telecommunications Engineering from [UPC](https://telecos.upc.edu/en?set_language=en).
 
-## 🌟 Research Interests
+Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the autonomy stack of a fully custom self-driving car. I also interned for a semester at **Motional**, focusing on high-level motion planning for autonomous driving.
 
-Within deep reinforcement learning, embodied AI, and robotics, I am particularly interested in:
+I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, such as using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
 
-**Hierarchical / Skill-based learning**: enable long-horizon task learning through temporal abstraction and guided exploration. Could a robot learn to cook a meal by first learning to use the oven, then the stove, and finally the knife?
+## News
+- [Jan 2025]  Joining [**Boston Dynamics AI Institute**](https://theaiinstitute.com/) as a Research Intern.
+- [Dec 2024]  Applying to PhD positions in Robot Learning.  
+- [June 2024] Starting a 6-month research internship at [**Hao Su's lab**](https://cseweb.ucsd.edu/~haosu/) at UC San Diego.  
+- [May 2024]  Awarded the [**La Caixa Foundation Postgraduate Fellowship**](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call) for PhD studies at any institution.  
+- [April 2024] Successfully defended my MSc thesis at **ETH Zürich** with a full grade.  
+- [April 2024] Completed MSc degree in **Robotics, Systems & Control** at [ETH Zürich](https://ethz.ch/en.html).  
+- [Sep 2023]  Joined **Fisher Yu's lab** at ETH Zürich to work on **Hierarchical World Models** in the [Vision Group](https://vision.ee.ethz.ch/).  
+- [April 2023] Returned to **ETH Zürich** to complete MSc coursework and thesis.  
+- [Sep 2022]  Began an internship at **Motional** in [Motion Planning](https://motional.com/).  
 
-**Model-based learning**: build internal world models of the embodied self and the world to develop a general understanding and improve sample-efficiency in learning through planning.
+## Experience
+- **Research Intern**  
+  *UCSD, Hao Su's Lab (June 2024 – Dec 2024)*  
+  Developed a model-based RL framework for long-horizon tasks with sparse rewards; work will be submitted to **ICML 2025**.
 
-**Representation learning**: autonomously infer and discover the underlying temporal, spatial, and causal structures of the input across different modalities for efficient decision-making and generalization.
+- **Motion Planning Intern**  
+  *Motional (Sep 2022 – April 2023)*  
+  Prototyped and benchmarked high-level planning pipelines, focusing on convex corridor generation for autonomous vehicles.
 
-A sample of other topics that I’m also very curious about: generative models, multi-agent cooperation, life-long learning and learning from human videos.
+- **Team Member**  
+  *Formula Student Driverless Team, AMZ Driverless (Sep 2020 – Sep 2021)*  
+  Designed Kalman filters for high-speed velocity estimation; won 1st place at the **Daimler AI Award** and 3rd place overall at [Formula Student Germany](https://www.formulastudent.de/).
 
-## 💼 Research & Work Experience
+## Achievements & Awards
+- **La Caixa Foundation Postgraduate Fellowship (2024)**  
+  Fully funded PhD scholarship awarded to 100 candidates annually, detailed on their [program page](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call).
 
-### Master Thesis at Visual Intelligence and Systems Lab
+- **Graduated with Distinction**  
+  MSc in Robotics, Systems & Control at [ETH Zürich](https://master-robotics.ethz.ch/) (2024).
 
-🔍 Under the guidance of [Prof. Dr. Fisher Yu](https://www.vis.xyz/), my master thesis focuses on Chain of Thought World Models for Goal Conditioned Reinforcement Learning at the [Visual Intelligence and Systems](https://www.vis.xyz/) lab. Supervised by [Lei Ke](https://www.kelei.site/) and [Yao Mu](https://yaomarkmu.github.io/), exploring how temporal abstraction models can help hierarchical RL agents to succeed in long-horizon complex manipulation tasks.
+- **Formula Student Germany (2021)**  
+  3rd place overall in Driverless category with **AMZ Driverless**, detailed on [Formula Student Germany's website](https://www.formulastudent.de/).
 
-### Motion Planning Research Intern at Motional
+- **Daimler AI Award (2021)**  
+  Recognized for the most innovative AI solutions in autonomous driving by [Daimler AI](https://www.formulastudent.de/pr/news/details/article/daimler-driverless-ai-award-2021-update/).
 
-At [Motional](https://motional.com/) Singapore, I worked on the design of a new behavioral planning pipeline for the next generation of autonomous vehicles. 🚙 
+- **Maximum Grade & Honors**  
+  Bachelor's Thesis at [Universitat Politècnica de Catalunya](https://telecos.upc.edu/en?set_language=en) (2021).
 
-Guided by [Hans Andersen](https://scholar.google.com.sg/citations?user=ODZqlM8AAAAJ&hl=en), we prototyped, implemented and tested a new behavioral planning pipeline. This pipeline was specifically designed to handle complex scenarios with a large number of agents on the road and perform advanced maneuvers, such as overtaking multiple cars.
+- **Mathematics Olympiad Champion**  
+  1st place at **XXIV National Mathematics Olympiad** of Spain and Andorra, detailed on [FESPM's official page](https://fespm.es/index.php/2013/07/03/xxiv-olimpiada-cuadro-de-honor/).
 
-### State Estimation: KalmanNet
-
-In this project, we presented KalmanNet, a real-time state estimator that learns from data to perform Kalman filtering under non-linear dynamics with partial information. By incorporating the structural State Space model with a dedicated recurrent neural network module in the flow of a Kalman Filter, we managed to retain data efficiency and interpretability of the
-classic algorithm while implicitly learning complex dynamics from data.
-
----
-
-
-## 🏎️ Autonomous Racing & State Estimation 
-
-### Autonomous Racing at AMZ Driverless
-During my undergraduate exchange at ETH I was part of the Formula Student Driverless team, [AMZ Driverless](https://amzracing.ch/en). As a
-team, we built autonomous racing cars from scratch that later competed at the international Formula Student competitions. I was in charge of the state estimation system of the car and also of the electronics of the autonomous system. AMZ Racing holds the [world record](https://www.youtube.com/watch?v=88cVs5zZFTE) for the fastest acceleration in an electric vehicle. In 2021 I assumed the leadership of the estimation team, supervising the mapping and estimation algorithms.
-
-### SLAM & Autonomous Racing at BCN eMotorsport
-As a part of the [BCN eMotorsport](https://bcnemotorsport.upc.edu/home/), I was part of the design, construction, and testing of
-the first autonomous racing car ever in Spain. My job was to design an online SLAM algorithm to extract a track map from LiDAR observations and raw GPS data. Along with my teammates, we made it to the international Formula Student Germany competition, where the car managed to complete some of the events, being the first-ever Spanish university team to achieve so.
-
-## 🎓 Teaching and Mentoring 
-
-**Teaching Assistant** for the course Game Theory And Control at ETH Zurich: During my Master's degree I was working as a part-time teaching assistant helping to prepare lectures and correct assignments for the course.
-
-**Robotics academy**: As a side job during my undergraduate program I had the pleasure of working as an after-school robotics teacher for children interested in learning basic robotics and programming. I was in charge of designing robotic and programming workshops for students aged from 8 to 14 during holidays and after-school hours.
-
-
-## 🏆 Achievements & Awards 
-
-- 3rd place overall in Formula Student Germany's Driverless category with AMZ Driverless.
-- Daimler AI Award for pioneering AI solutions in autonomous driving.
-- Maximum grade and honors for my Bachelor's Thesis at UPC.
-- 1st place in Mational Mathematics Olympiads of Spain and Andorra.
-
-## 🏄‍♂️ Other Interests  
-I enjoy:
-- Alpine Skiing, Alpinism, Tennis, and Surfing. 🏂
-- Backpacking and traveling for 6 months in South America and Asia. 🌎
-- Volunteering experiences in teaching robotics and construction projects. 🏗️
-- Reading, discussing about the future of the world and learning about other topics. 📚
 
 
 
