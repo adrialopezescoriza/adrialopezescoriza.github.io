@@ -12,7 +12,7 @@ I am currently a research intern in robot learning at [UCSD](https://ucsd.edu/) 
 
 Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the autonomy stack of a fully custom self-driving car. I also interned for a semester at **Motional**, focusing on high-level motion planning for autonomous driving.
 
-I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, such as using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
+I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, for instance, using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
 
 ## News
 - [Jan 2025]  Joining [**Boston Dynamics AI Institute**](https://theaiinstitute.com/) as a Research Intern.
