@@ -15,10 +15,10 @@ Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the
 I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, for instance, using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
 
 ## News
-- [Jan 2025]  Joining [**Boston Dynamics AI Institute**](https://theaiinstitute.com/) as a Research Intern.
+- [Jan 2025]  Joining the [Boston Dynamics AI Institute](https://theaiinstitute.com/) as a Research Intern.
 - [Dec 2024]  Applying to PhD positions in Robot Learning.  
-- [June 2024] Starting a 6-month research internship at [**Hao Su's lab**](https://cseweb.ucsd.edu/~haosu/) at UC San Diego.  
-- [May 2024]  Awarded the [**La Caixa Foundation Postgraduate Fellowship**](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call) for PhD studies at any institution.  
+- [June 2024] Starting a 6-month research internship at [Hao Su's lab](https://cseweb.ucsd.edu/~haosu/) at UC San Diego.  
+- [May 2024]  Awarded the [La Caixa Foundation Postgraduate Fellowship](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call) for PhD studies at any institution.  
 - [April 2024] Successfully defended my MSc thesis at **ETH Zürich** with a full grade.  
 - [April 2024] Completed MSc degree in **Robotics, Systems & Control** at [ETH Zürich](https://ethz.ch/en.html).  
 - [Sep 2023]  Joined **Fisher Yu's lab** at ETH Zürich to work on **Hierarchical World Models** in the [Vision Group](https://vision.ee.ethz.ch/).  
