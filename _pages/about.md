@@ -15,15 +15,17 @@ Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the
 I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, for instance, using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
 
 ## News
-- [Jan 2025]  Joining the [Boston Dynamics AI Institute](https://theaiinstitute.com/) as a Research Intern.
+- [Jan 2025]  Joining the [Boston Dynamics AI Institute](https://theaiinstitute.com/) as a research intern.
 - [Dec 2024]  Applying to PhD positions in Robot Learning.  
 - [June 2024] Starting a 6-month research internship at [Hao Su's lab](https://cseweb.ucsd.edu/~haosu/) at UC San Diego.  
-- [May 2024]  Awarded the [La Caixa Foundation Postgraduate Fellowship](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call) for PhD studies at any institution.  
-- [April 2024] Successfully defended my MSc thesis at **ETH Zürich** with a full grade.  
+- [May 2024]  Got awarded the [La Caixa Foundation Postgraduate Fellowship](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call) for PhD studies at any institution.  
+- [April 2024] Successfully defended my MSc thesis at [ETH Zürich](https://ethz.ch/en.html) with a full grade.  
 - [April 2024] Completed MSc degree in **Robotics, Systems & Control** at [ETH Zürich](https://ethz.ch/en.html).  
-- [Sep 2023]  Joined **Fisher Yu's lab** at ETH Zürich to work on **Hierarchical World Models** in the [Vision Group](https://vision.ee.ethz.ch/).  
+- [Sep 2023]  Joined **Fisher Yu's lab** at ETH Zürich to work on **Hierarchical World Models** in the [Visual Intelligence Group](https://vision.ee.ethz.ch/).  
 - [April 2023] Returned to **ETH Zürich** to complete MSc coursework and thesis.  
-- [Sep 2022]  Began an internship at **Motional** in [Motion Planning](https://motional.com/).  
+- [Sep 2022]  Joining [Motional](https://motional.com/) as a motionn planning intern.
+- [Sep 2021] Starting my MSc inn Robotics, Systems and Control at [ETH Zürich](https://ethz.ch/en.html).
+- [July 2021] Successfully defended my BSc thesis at [UPC](https://telecos.upc.edu/en?set_language=en) with a full grade and honors.
 
 ## Experience
 - **Research Intern**  
@@ -43,10 +45,10 @@ I am fascinated by the field of robot learning, with a particular focus on devel
   Fully funded PhD scholarship awarded to 100 candidates annually in Spain and Portugal. [Program page](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call).
 
 - **Graduated with Distinction**  
-  MSc in Robotics, Systems & Control at [ETH Zürich](https://master-robotics.ethz.ch/) (2024).
+  MSc in Robotics, Systems & Control at [ETH Zürich](https://master-robotics.ethz.ch/).
 
 - **Formula Student Germany (2021)**  
-  3rd place overall in Driverless category with **AMZ Driverless**. [Formula Student Germany's website](https://www.formulastudent.de/).
+  3rd place overall in Driverless category with **AMZ Driverless** at [Formula Student Germany](https://www.formulastudent.de/).
 
 - **Daimler AI Award (2021)**  
   Recognized for the most innovative AI solutions in autonomous driving by [Daimler AI](https://www.formulastudent.de/pr/news/details/article/daimler-driverless-ai-award-2021-update/).
