@@ -22,9 +22,9 @@ I am fascinated by the field of robot learning, with a particular focus on devel
 - [April 2024] Successfully defended my MSc thesis at [ETH Zürich](https://ethz.ch/en.html) with a full grade.  
 - [April 2024] Completed MSc degree in **Robotics, Systems & Control** at [ETH Zürich](https://ethz.ch/en.html).  
 - [Sep 2023]  Joined **Fisher Yu's lab** at ETH Zürich to work on **Hierarchical World Models** in the [Visual Intelligence Group](https://vision.ee.ethz.ch/).  
-- [April 2023] Returned to **ETH Zürich** to complete MSc coursework and thesis.  
-- [Sep 2022]  Joining [Motional](https://motional.com/) as a motionn planning intern.
-- [Sep 2021] Starting my MSc inn Robotics, Systems and Control at [ETH Zürich](https://ethz.ch/en.html).
+- [April 2023] Returned to **ETH Zürich** to complete MSc coursework and Thesis.  
+- [Sep 2022]  Joining [Motional](https://motional.com/) as a motion planning intern.
+- [Sep 2021] Starting my MSc in Robotics, Systems, and Control at [ETH Zürich](https://ethz.ch/en.html).
 - [July 2021] Successfully defended my BSc thesis at [UPC](https://telecos.upc.edu/en?set_language=en) with a full grade and honors.
 
 ## Experience
@@ -36,8 +36,8 @@ I am fascinated by the field of robot learning, with a particular focus on devel
   *Motional (Sep 2022 – April 2023)*  
   Prototyped and benchmarked high-level planning pipelines, focusing on convex corridor generation for autonomous vehicles.
 
-- **Team Member**  
-  *Formula Student Driverless Team, AMZ Driverless (Sep 2020 – Sep 2021)*  
+- **Formula Student Driverless Team Member**  
+  *AMZ Driverless (Sep 2020 – Sep 2021)*  
   Designed Kalman filters for high-speed velocity estimation; won 1st place at the **Daimler AI Award** and 3rd place overall at [Formula Student Germany](https://www.formulastudent.de/).
 
 ## Achievements & Awards
