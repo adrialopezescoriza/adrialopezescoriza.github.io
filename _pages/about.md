@@ -17,7 +17,7 @@ Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the
 Broadly, I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, for instance, using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
 
 ## News
-- [Sep 2025] Starting my PhD at the [Robotic Systems Lab](https://rsl.ethz.ch/) at ETH Zurich under the supervision of [Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=110601).
+- [Sep 2025] Starting my PhD at the [Robotic Systems Lab](https://rsl.ethz.ch/) at ETH Zurich.
 - [July 2025] Presented our recent work [DEMO3](https://adrialopezescoriza.github.io/demo3/) at [ICML 2025](https://icml.cc/virtual/2025/poster/46087)..
 - [Jan 2025]  Joining the [Robotics and AI Institute](https://rai-inst.com/) as a research intern. 
 - [June 2024] Starting a 6-month research internship at [Hao Su's lab](https://cseweb.ucsd.edu/~haosu/) at UC San Diego.  
