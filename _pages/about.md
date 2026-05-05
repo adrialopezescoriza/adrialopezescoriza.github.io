@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming doctoral student at the [Robotic Systems Lab](https://rsl.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), where I will be supervised by [Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=110601). I have recently spent time as a research intern at [UCSD](https://ucsd.edu/) with [Hao Su](https://cseweb.ucsd.edu/~haosu/index.html) and at the [Robotics and AI Institute (RAI)](https://theaiinstitute.com/), working on **humanoid locomotion**.  
+I am a first-year PhD student at the [Robotic Systems Lab](https://rsl.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), where I am supervised by [Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=110601). I work on **humanoid loco-manipulation**, with the goal of enabling robots to learn to interact with the real world from small amounts of data and a lot of interaction. I have recently spent time as a research intern at [UCSD](https://ucsd.edu/) with [Hao Su](https://cseweb.ucsd.edu/~haosu/index.html) and at the [Robotics and AI Institute (RAI)](https://theaiinstitute.com/), working on **humanoid locomotion**.  
 
 Previously, I received an MSc degree in Robotics, Systems & Control from [ETH Zurich](https://ethz.ch/en.html), where I was advised by [Roland Siegwart](https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html). Before that, I obtained my BSc degree in Telecommunications Engineering from [UPC](https://telecos.upc.edu/en?set_language=en).  
 
 Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the autonomy stack of a fully custom self-driving car. I also interned for a semester at **Motional**, focusing on high-level motion planning for autonomous driving.  
 
-Broadly, I am fascinated by the field of robot learning, with a particular focus on developing agents that are both robust and explainable in their decision-making processes. My interest lies in enabling these agents to **learn to reason** rather than simply react, for instance, using world models for data-driven planning. Additionally, I focus on developing simple methods that can efficiently learn from diverse data sources. My overarching research goal is to contribute to the development of general-purpose robots capable of seamlessly performing complex, long-horizon tasks in everyday life.
+Broadly, I am fascinated by robot learning methods that let robots acquire robust real-world skills from limited data while improving through interaction. I am especially interested in humanoid systems that can combine locomotion and manipulation to perform useful tasks in everyday environments.
 
 ## News
 - [Sep 2025] Starting my PhD at the [Robotic Systems Lab](https://rsl.ethz.ch/) at ETH Zurich.
@@ -65,7 +65,6 @@ Broadly, I am fascinated by the field of robot learning, with a particular focus
 
 - **Mathematics Olympiad Champion**  
   1st place at **XXIV National Mathematics Olympiad** of Spain and Andorra. [FESPM's official page](https://fespm.es/index.php/2013/07/03/xxiv-olimpiada-cuadro-de-honor/).
-
 
 
 

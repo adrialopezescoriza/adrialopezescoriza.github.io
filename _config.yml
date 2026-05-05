@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Adrià López Escoriza"
-  avatar           : "profile.jpg"
+  avatar           : "profile_2.jpg"
   bio              : "Robot Learning"
   location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ILR9mVQAAAAJ&hl=es"
-  email            : "adrianlopezescoriza@gmail.com"
+  email            : "alopez@ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
