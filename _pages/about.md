@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the [Robotic Systems Lab](https://rsl.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), where I am supervised by [Prof. Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=110601). I work on **humanoid loco-manipulation**, with the goal of enabling robots to learn to interact with the real world from small amounts of data and a lot of interaction. I have recently spent time as a research intern at [UCSD](https://ucsd.edu/) with [Hao Su](https://cseweb.ucsd.edu/~haosu/index.html) and at the [Robotics and AI Institute (RAI)](https://theaiinstitute.com/), working on **humanoid locomotion**.  
+I am a first-year PhD student at the [Robotic Systems Lab](https://rsl.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), where I am supervised by [Prof. Marco Hutter](https://ethz.ch/staffnet/en/organisation/who-is-who/mavt/details.MTIxOTEx.TGlzdC8xOTEyLC0zNzEzODYwNzI%3D.html). I work on **humanoid loco-manipulation**, with the goal of enabling robots to learn to interact with the real world from small amounts of data and a lot of interaction. I have recently spent time as a research intern at [UCSD](https://ucsd.edu/) with [Hao Su](https://www.haosu.ai/) and at the [Robotics and AI Institute (RAI)](https://rai-inst.com/), working on **humanoid locomotion**.  
 
-Previously, I received an MSc degree in Robotics, Systems & Control from [ETH Zurich](https://ethz.ch/en.html), where I was advised by [Roland Siegwart](https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html). Before that, I obtained my BSc degree in Telecommunications Engineering from [UPC](https://telecos.upc.edu/en?set_language=en).  
+Previously, I received an MSc degree in Robotics, Systems & Control from [ETH Zurich](https://ethz.ch/en.html), where I was advised by [Roland Siegwart](https://asl.ethz.ch/the-lab/people/person-detail.siegwart.html). Before that, I obtained my BSc degree in Telecommunications Engineering from [UPC](https://www.upc.edu/en).  
 
 Alongside my studies, I spent two years at **AMZ Racing**, where I worked on the autonomy stack of a fully custom self-driving car. I also interned for a semester at **Motional**, focusing on high-level motion planning for autonomous driving.  
 
@@ -20,15 +20,15 @@ Broadly, I am fascinated by robot learning methods that let robots acquire robus
 - [Sep 2025] Starting my PhD at the [Robotic Systems Lab](https://rsl.ethz.ch/) at ETH Zurich.
 - [July 2025] Presented our recent work [DEMO3](https://adrialopezescoriza.github.io/demo3/) at [ICML 2025](https://icml.cc/virtual/2025/poster/46087)..
 - [Jan 2025]  Joining the [Robotics and AI Institute](https://rai-inst.com/) as a research intern. 
-- [June 2024] Starting a 6-month research internship at [Hao Su's lab](https://cseweb.ucsd.edu/~haosu/) at UC San Diego.  
-- [May 2024]  Got awarded the [La Caixa Foundation Postgraduate Fellowship](https://lacaixafoundation.org/en/postgraduate-fellowships-abroad-call) for PhD studies at any institution.  
+- [June 2024] Starting a 6-month research internship at [Hao Su's lab](https://www.haosu.ai/) at UC San Diego.  
+- [May 2024]  Got awarded the [La Caixa Foundation Postgraduate Fellowship](https://becarios.fundacionlacaixa.org/en/adria-lopez-escoriza-B006362) for PhD studies at any institution.  
 - [April 2024] Successfully defended my MSc thesis at [ETH Zürich](https://ethz.ch/en.html) with a full grade.  
 - [April 2024] Completed MSc degree in **Robotics, Systems & Control** at [ETH Zürich](https://ethz.ch/en.html).  
-- [Sep 2023]  Joined **Fisher Yu's lab** at ETH Zürich to work on **Hierarchical World Models** in the [Visual Intelligence Group](https://vision.ee.ethz.ch/).  
+- [Sep 2023]  Joined [Fisher Yu's lab](https://github.com/SysCV) at ETH Zürich to work on **Hierarchical World Models** in the Visual Intelligence and Systems group.  
 - [April 2023] Returned to **ETH Zürich** to complete MSc coursework and Thesis.  
 - [Sep 2022]  Joining [Motional](https://motional.com/) as a motion planning intern.
 - [Sep 2021] Starting my MSc in Robotics, Systems, and Control at [ETH Zürich](https://ethz.ch/en.html).
-- [July 2021] Successfully defended my BSc thesis at [UPC](https://telecos.upc.edu/en?set_language=en) with a full grade and honors.
+- [July 2021] Successfully defended my BSc thesis at [UPC](https://www.upc.edu/en) with a full grade and honors.
 
 ## Experience
 - **Reinforcement Learning Intern**  
@@ -61,10 +61,7 @@ Broadly, I am fascinated by robot learning methods that let robots acquire robus
   Recognized for the most innovative AI solutions in autonomous driving by [Daimler AI](https://www.formulastudent.de/pr/news/details/article/daimler-driverless-ai-award-2021-update/).
 
 - **Maximum Grade & Honors**  
-  Bachelor's Thesis at [Universitat Politècnica de Catalunya](https://telecos.upc.edu/en?set_language=en) (2021).
+  Bachelor's Thesis at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) (2021).
 
 - **Mathematics Olympiad Champion**  
   1st place at **XXIV National Mathematics Olympiad** of Spain and Andorra. [FESPM's official page](https://fespm.es/index.php/2013/07/03/xxiv-olimpiada-cuadro-de-honor/).
-
-
-
